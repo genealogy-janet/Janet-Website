@@ -1,0 +1,36 @@
+#puppyhome {
+   
+margin-left: 30%;
+
+}
+
+.companyname {
+
+    color: A38B75;
+    font-size: 55px;
+    text-align: center;
+    border: dashed black 3px;
+    width: 650px;
+    margin: auto;
+    -webkit-text-stroke: 1px burlywood;
+}
+.background {
+    background-color: 3B3B3B;
+;
+
+}
+
+.backgroundbody {
+
+    background: #ffdbac;
+}
+
+.nav-btn{
+    display: inline-block; 
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    background-color: A38B75;
+    border: solid whitesmoke 1px;
+    margin: 5;
+}

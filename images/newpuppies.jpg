@@ -1,0 +1,35 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Caring for your New Puppy</title>
+
+    </head>
+
+    <body>
+
+        <header>
+            <nav>
+                <a style="text-decoration: none;" href="index.html"> Nutrition</a>
+                <a style="text-decoration: none;" href="Aboutus.html"> Hygiene and Personal Cares</a>
+                <a style="text-decoration: none;" href=""> Weight Calculator</a>
+
+
+
+            </nav>
+
+        </header>
+
+        <img src="">
+
+    </body>
+
+
+    <footer>
+
+    </footer>
+
+    </html>
