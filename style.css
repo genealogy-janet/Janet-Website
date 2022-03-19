@@ -1,5 +1,6 @@
 #puppyhome {
-   
+position: absolute;
+top: 150;   
 margin-left: 30%;
 
 }
@@ -15,14 +16,16 @@ margin-left: 30%;
     -webkit-text-stroke: 1px burlywood;
 }
 .background {
-    background-color: 3B3B3B;
-;
-
+    background-color: #3B3B3B;
 }
 
 .backgroundbody {
-
     background: #ffdbac;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
 }
 
 .nav-btn{
